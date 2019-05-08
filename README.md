@@ -10,7 +10,7 @@ How to test?
 
 1. Valid test
 
-Hit below URL: 
+Hit URL: 
 http://localhost:8081/golang?q=bye
 
 Expected Response:
@@ -18,7 +18,7 @@ Expected Response:
 
 1. Not Valid test
 
-Hit below URL: 
+Hit URL: 
 http://localhost:8081/golang?q=bye
 
 Expected Response:
