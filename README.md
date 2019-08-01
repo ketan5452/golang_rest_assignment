@@ -11,7 +11,7 @@ How to test?
 1. Valid test
 
 Hit URL: 
-http://localhost:8081/golang?q=bye
+http://localhost:8081/golang?q=hi
 
 Expected Response:
 {"Status":200,"Response":"Hello"}
